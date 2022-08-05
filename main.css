@@ -401,13 +401,13 @@ body {
 
 /* Footer */
 footer {
-  padding: 100px 70px;
   color: #fff;
+  padding: 100px 70px;
 }
 
 footer h1 {
-  letter-spacing: 2px;
   font-family: "Nova Round", cursive;
+  letter-spacing: 2px;
   margin-bottom: 20px;
 }
 
